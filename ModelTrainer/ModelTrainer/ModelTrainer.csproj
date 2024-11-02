@@ -11,7 +11,6 @@
 	<PackageReference Include="Microsoft.ML.Mkl.Components" Version="3.0.1" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\VietnameseTextCorrectionClient\VietnameseTextCorrectionClient.csproj" />
     <ProjectReference Include="..\VietnameseTextCorrectionServer\VietnameseTextCorrectionServer.csproj" />
   </ItemGroup>
 </Project>
